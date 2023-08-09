@@ -6,7 +6,7 @@ Minecraft 命令预览
  - /title
  
 # Libs
- - [MCColor](.\lib\js\mccolor.js)
+ - [MCColor](lib/js/mccolor.js)
    Parse Minecraft Chat like `[{"text":"a","color":"green"}]`
    Author: wifi_left
  - [gQuery](https://gquery.cn/)
