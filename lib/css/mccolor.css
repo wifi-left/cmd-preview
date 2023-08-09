@@ -1,0 +1,86 @@
+.mcColor-black {
+    color: #000000;
+}
+
+.mcColor-dark_blue {
+    color: #0000AA;
+}
+
+.mcColor-dark_green {
+    color: #00AA00;
+}
+
+.mcColor-dark_aqua {
+    color: #00AAAA;
+}
+
+.mcColor-dark_red {
+    color: #AA0000;
+}
+
+.mcColor-dark_purple {
+    color: #AA00AA;
+}
+
+.mcColor-gold {
+    color: #FFAA00;
+}
+
+.mcColor-gray {
+    color: #AAAAAA;
+}
+
+.mcColor-dark_gray {
+    color: #555555;
+}
+
+.mcColor-blue {
+    color: #5555FF;
+}
+
+.mcColor-green {
+    color: #55FF55;
+}
+
+.mcColor-aqua {
+    color: #55FFFF;
+}
+
+.mcColor-red {
+    color: #FF5555;
+}
+
+.mcColor-light_purple {
+    color: #FF55FF;
+}
+
+.mcColor-yellow {
+    color: #FFFF55;
+}
+
+.mcColor-white {
+    color: #FFFFFF;
+}
+.mcColor-reset {
+    color: #FFFFFF;
+}
+
+
+/* 
+black|000000
+dark_blue|0000AA
+dark_green|00AA00
+dark_aqua|00AAAA
+dark_red|AA0000
+dark_purple|AA00AA
+gold|FFAA00
+gray|AAAAAA
+dark_gray|555555
+blue|5555FF
+green|55FF55
+aqua|55FFFF
+red|FF5555
+light_purple|FF55FF
+yellow|FFFF55
+white|FFFFFF
+*/
